@@ -1,0 +1,9 @@
+/* Note styles */
+.Note {
+    list-style: none;
+    padding: 7px 7px;
+    background: #fff;
+    border-radius: 5px;
+    margin-top: 5px;
+    font-family: 'Mukta', sans-serif;
+};

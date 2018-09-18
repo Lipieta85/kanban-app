@@ -1,0 +1,43 @@
+/* Lane styles */
+@import url('https://fonts.googleapis.com/css?family=Mukta');
+
+.Lanes {
+  max-width: 980px;
+  width: 100%;
+  padding-top: 10px;
+  margin: 0 auto;
+}
+
+.Lane {
+  width: 30%;
+  padding: 15px;
+  margin: 0 15px 20px 0;
+  background: #E2E4E6;
+  box-shadow: 5px 5px 10px 2px #CCC;
+}
+
+.AddLane,
+.Lane button {
+  border: 1px solid #999;
+  border-radius: 9px;
+  padding: 5px 10px;
+  margin-top: 10px;
+  background: rgb(85, 101, 220);
+  color: #FFF;
+  font-family: 'Mukta', sans-serif;
+  
+}
+
+.LaneHeader {
+  padding: 10px 10px;
+  background: #fff;
+  border-radius: 5px;
+  margin-top: 5px;
+  font-family: 'Mukta', sans-serif;
+}
+
+.LaneAddNote {
+  margin-top: 15px;
+  border-top: 1px solid #eaeaea;
+}
+
