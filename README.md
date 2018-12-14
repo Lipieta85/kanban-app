@@ -1,1 +1,0 @@
-https://lipieta85.github.io/kanban-app/
